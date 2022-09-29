@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baranselgok
-- 👀 I’m interested in Web3 development.
-- 🌱 I’m currently learning front-end development.
+- 👀 I’m interested in Web3 development. And currently learning front-end development.
+- 🌱I'm studying at Yildiz Technical University. My department is mathematical engineering.
 
 
 <!---
